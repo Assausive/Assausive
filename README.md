@@ -1,73 +1,64 @@
 <div align="center">
-  <img src="https://juliandk.nl/images/avatar_assausive.webp" width="110" alt="Assausive avatar" />
 
-  # Hi, I'm Assausive 👋
+<img src="https://juliandk.nl/images/avatar_assausive.webp" width="120" alt="Assausive" />
 
-  **Full-stack developer** building fast, modern software.
-  Discord bots · iOS/macOS apps · webapps · Minecraft plugins
+# Julian · Assausive
 
-  [![Portfolio](https://img.shields.io/badge/-juliandk.nl-ff5a2e?style=flat-square&logo=safari&logoColor=white)](https://juliandk.nl)
-  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/864596996449632336)
+<a href="https://juliandk.nl">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5A2E&center=true&vCenter=true&width=480&lines=Full-stack+developer+uit+Nederland;Discord+bots+%E2%80%A2+Webapps+%E2%80%A2+iOS%2FmacOS;Minecraft+plugins+in+Java+%26+Kotlin;Self-hosted+alles+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+[![Portfolio](https://img.shields.io/badge/juliandk.nl-ff5a2e?style=for-the-badge&logo=safari&logoColor=white)](https://juliandk.nl)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/864596996449632336)
+[![Followers](https://img.shields.io/github/followers/Assausive?style=for-the-badge&label=Followers&color=1a1a1a&labelColor=ff5a2e)](https://github.com/Assausive)
+
 </div>
 
 ---
 
-### 🚀 Featured projects
+### 👋 Over mij
+
+- 🧑‍💻 Ik bouw snelle, moderne software — van backend tot frontend
+- 🤖 Veel bezig met **Discord bots** (Discord.js, MongoDB)
+- 📱 Native apps voor **iOS & macOS** met SwiftUI
+- ⛏️ Custom **Minecraft plugins** (Paper/Spigot)
+- 🖥️ Host mijn eigen spul: VPS, Docker, Nginx, Pelican, NAS
+
+---
+
+### 🚀 Projecten
 
 | Project | Beschrijving | Stack |
 |---|---|---|
-| **[WarmteCheck](https://juliandk.nl)** | iOS-app & webapp om storingscodes voor warmtepompen/cv-ketels op te zoeken | SwiftUI, JSON |
-| **Nexa** | Modulaire Discord-bot met tickets, meertaligheid en webinterface | TypeScript, discord.js, Mongoose |
-| **WonderCraft** | Minecraft-server met eigen website en maatwerk plugins | Kotlin, Gradle, Paper |
+| [**PieckCraft**](https://pieckcraft.nl) | Minecraft-themaparkserver met eigen plugins, attracties en audio | Java · Kotlin · Paper · Velocity |
 
-📄 Meer projecten & details: **[juliandk.nl](https://juliandk.nl)**
+📄 Meer projecten op **[juliandk.nl](https://juliandk.nl)**
 
 ---
 
 ### 🛠️ Tech stack
 
-**Languages**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
-
-**Databases & Infra**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Tools**
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,swift,mysql&perline=9" alt="Talen" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,mongodb,nginx,docker,linux,github,vscode,idea&perline=10" alt="Frameworks & tools" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Assausive&theme=dark&hide_border=true&background=00000000&ring=ff5a2e&fire=ff5a2e&currStreakLabel=ff5a2e" height="165" alt="GitHub streak stats" />
-</div>
+### 📊 GitHub stats
 
 <div align="center">
-
-[![Followers](https://img.shields.io/github/followers/Assausive?style=flat-square&label=Followers&color=ff5a2e)](https://github.com/Assausive)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assausive&layout=compact&theme=transparent&hide_border=true&title_color=ff5a2e&text_color=c9d1d9&langs_count=8" height="165" alt="Top talen" />
+  <img src="https://streak-stats.demolab.com/?user=Assausive&theme=dark&hide_border=true&background=00000000&ring=ff5a2e&fire=ff5a2e&currStreakLabel=ff5a2e" height="165" alt="GitHub streak" />
 </div>
 
 ---
 
 <div align="center">
-  🚀 Altijd op zoek naar nieuwe uitdagingen en technologieën!
+  <sub>🚀 Altijd bezig met iets nieuws — kom gerust even langs op <a href="https://juliandk.nl">juliandk.nl</a></sub>
 </div>

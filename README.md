@@ -53,7 +53,6 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assausive&layout=compact&theme=transparent&hide_border=true&title_color=ff5a2e&text_color=c9d1d9&langs_count=8" height="165" alt="Top talen" />
   <img src="https://streak-stats.demolab.com/?user=Assausive&theme=dark&hide_border=true&background=00000000&ring=ff5a2e&fire=ff5a2e&currStreakLabel=ff5a2e" height="165" alt="GitHub streak" />
 </div>
 
